@@ -83,9 +83,9 @@ rails db:seed
 
 ## 👥 Author <a name="authors"></a>
 
-👤 : **Prosper Kessie**
+👤 : **Md Sazzad Hossain**
 
-- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Blog-Web.git)
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/Hello-Rails-Back-end.git))
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sazzad3y/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
